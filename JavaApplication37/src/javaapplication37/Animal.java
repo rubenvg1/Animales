@@ -11,4 +11,7 @@ package javaapplication37;
  */
 public class Animal {
     
+    public Animal() {
+    }
+    
 }
